@@ -1,0 +1,826 @@
+<html lang="es-CO"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    
+	<!-- This site is optimized with the Yoast SEO plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>HILUX - Automotores Toyota Colombia</title>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<link rel="canonical" href="https://www.toyota.com.co/vehiculo/hilux-3/">
+	<meta property="og:locale" content="es_ES">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="HILUX - Automotores Toyota Colombia">
+	<meta property="og:url" content="https://www.toyota.com.co/vehiculo/hilux-3/">
+	<meta property="og:site_name" content="Automotores Toyota Colombia">
+	<meta property="article:modified_time" content="2021-04-20T16:06:51+00:00">
+	<meta property="og:image" content="https://www.toyota.com.co/wp-content/uploads/2020/08/HILUX_2021.png">
+	<meta property="og:image:width" content="400">
+	<meta property="og:image:height" content="400">
+	<meta name="twitter:card" content="summary_large_image">
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TJZSLJ9"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.toyota.com.co/#website","url":"https://www.toyota.com.co/","name":"Automotores Toyota Colombia","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.toyota.com.co/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"es-CO"},{"@type":"ImageObject","@id":"https://www.toyota.com.co/vehiculo/hilux-3/#primaryimage","inLanguage":"es-CO","url":"https://www.toyota.com.co/wp-content/uploads/2020/08/HILUX_2021.png","width":400,"height":400},{"@type":"WebPage","@id":"https://www.toyota.com.co/vehiculo/hilux-3/#webpage","url":"https://www.toyota.com.co/vehiculo/hilux-3/","name":"HILUX - Automotores Toyota Colombia","isPartOf":{"@id":"https://www.toyota.com.co/#website"},"primaryImageOfPage":{"@id":"https://www.toyota.com.co/vehiculo/hilux-3/#primaryimage"},"datePublished":"2020-08-25T04:36:00+00:00","dateModified":"2021-04-20T16:06:51+00:00","inLanguage":"es-CO","potentialAction":[{"@type":"ReadAction","target":["https://www.toyota.com.co/vehiculo/hilux-3/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//s.w.org">
+<link href="https://fonts.gstatic.com" crossorigin="anonymous" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="Automotores Toyota Colombia » Feed" href="https://www.toyota.com.co/feed/">
+<link rel="alternate" type="application/rss+xml" title="Automotores Toyota Colombia » RSS de los comentarios" href="https://www.toyota.com.co/comments/feed/">
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.toyota.com.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.4"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.toyota.com.co/wp-includes/js/wp-emoji-release.min.js?ver=5.6.4" type="text/javascript" defer=""></script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="eedee-gutenslider-style-css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/gutenslider/dist/gutenslider-blocks.style.build.css?ver=1623135655" media="all">
+<link rel="stylesheet" id="eedee-gutenslider-slick-css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/gutenslider/src/vendor/slick/slick.css?ver=1623135655" media="all">
+<link rel="stylesheet" id="eedee-gutenslider-slick-theme-css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/gutenslider/src/vendor/slick/slick-theme.css?ver=1623135655" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/css/dashicons.min.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="ssb-ui-style-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/sticky-side-buttons/assets/css/ssb-ui-style.css?ver=5.6.4" media="all">
+<style id="ssb-ui-style-inline-css">
+#ssb-btn-0{background: #e20202;}
+#ssb-btn-0:hover{background:rgba(226,2,2,0.9);}
+#ssb-btn-0 a{color: #bcbcbc;}
+.ssb-share-btn,.ssb-share-btn .ssb-social-popup{background:#e20202;color:#bcbcbc}.ssb-share-btn:hover{background:rgba(226,2,2,0.9);}.ssb-share-btn a{color:#bcbcbc !important;}#ssb-btn-1{background: #e2e2e2;}
+#ssb-btn-1:hover{background:rgba(226,226,226,0.9);}
+#ssb-btn-1 a{color: #bcbcbc;}
+#ssb-btn-2{background: #e20000;}
+#ssb-btn-2:hover{background:rgba(226,0,0,0.9);}
+#ssb-btn-2 a{color: #bcbcbc;}
+
+</style>
+<link rel="stylesheet" id="ssb-fontawesome-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/sticky-side-buttons/assets/css/font-awesome.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="bootstrap.css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/css/bootstrap.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="fontawesome-all.css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/css/fontawesome-all.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="styles.css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/css/styles.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="fonts.googleapis.OpenSans-css" href="//fonts.googleapis.com/css2?family=Open+Sans%3Awght%40300%3B400%3B600%3B700%3B800&amp;display=swap&amp;ver=5.6.4" media="all">
+<link rel="stylesheet" id="toyotasite-style-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/style.css?ver=1.0.0" media="all">
+<link rel="stylesheet" id="owl.carousel.css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/css/owl.carousel.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="owl.theme.default.min.css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/css/owl.theme.default.min.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="animate.min.css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/css/animate.min.css?ver=5.6.4" media="all">
+<link rel="stylesheet" id="magnific-popup.min.css-css" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/css/magnific-popup.min.css?ver=5.6.4" media="all">
+<style id="kadence-blocks-heading-inline-css">
+.wp-block-kadence-advancedheading mark{color:#f76a0c;background:transparent;border-style:solid;border-width:0}
+</style>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script id="ssb-ui-js-js-extra">
+var ssb_ui_data = {"z_index":"999"};
+</script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/sticky-side-buttons/assets/js/ssb-ui-js.js?ver=5.6.4" id="ssb-ui-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.toyota.com.co/wp-json/"><link rel="alternate" type="application/json" href="https://www.toyota.com.co/wp-json/wp/v2/vehiculo/1130"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.toyota.com.co/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.toyota.com.co/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.toyota.com.co/?p=1130">
+<link rel="alternate" type="application/json+oembed" href="https://www.toyota.com.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.toyota.com.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;format=xml">
+		<style type="text/css">
+					.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+				}
+					</style>
+		<link rel="icon" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/cropped-favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/cropped-favicon-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/cropped-favicon-180x180.png">
+<meta name="msapplication-TileImage" content="https://www.toyota.com.co/wp-content/uploads/2020/08/cropped-favicon-270x270.png">
+		<style id="wp-custom-css">
+			.wsmenu-list > li:nth-of-type(1) a {
+    overflow: hidden;
+    width: auto;
+    top: 7px;
+    background-color: none; !important		</style>
+		    <script type="text/javascript">
+        var baseUrl = 'https://www.toyota.com.co/wp-content/themes/toyotasite/';
+        var ajaxUrl = "https://www.toyota.com.co/wp-admin/admin-ajax.php";
+    </script>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TJZSLJ9');</script>
+<!-- End Google Tag Manager -->
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJZSLJ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-110030901-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110030901-1');
+</script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+<meta http-equiv="origin-trial" content="A7iusd6XVbb7SOF83vXQdziVdvBy4R7Bh2tuVErLbKXxemIjQH20g7jWaz48nG08Cd6zfylzuF+H+1s9S3JodAEAAACOeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGVhZHNlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="https://www.google.com/pagead/privacysandbox/conversion/625555284/?random=1623628170890&amp;cv=9&amp;fst=1623628170890&amp;num=1&amp;value=0&amp;label=ehHcCOrt298BENTupKoC&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=0&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.googleadservices.com/pagead/conversion/664900455/?random=1623628170895&amp;cv=9&amp;fst=1623628170895&amp;num=1&amp;value=0&amp;label=7rxFCNb0yt8BEOemhr0C&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=1&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.googleadservices.com/pagead/conversion/787262772/?random=1623628170898&amp;cv=9&amp;fst=1623628170898&amp;num=1&amp;value=0&amp;label=BUoJCN6tvt8BELTasvcC&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=1&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.google.com/pagead/privacysandbox/conversion/792975038/?random=1623628170901&amp;cv=9&amp;fst=1623628170901&amp;num=1&amp;value=0&amp;label=UeXACJL4yt8BEL6tj_oC&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=0&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.google.com/pagead/privacysandbox/conversion/815653984/?random=1623628170905&amp;cv=9&amp;fst=1623628170905&amp;num=1&amp;value=0&amp;label=jzAvCNv2yt8BEODI94QD&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=0&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.google.com/pagead/privacysandbox/conversion/831946932/?random=1623628170908&amp;cv=9&amp;fst=1623628170908&amp;num=1&amp;value=0&amp;label=9d0qCP74yt8BELSB2owD&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=0&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.googleadservices.com/pagead/conversion/831964223/?random=1623628170910&amp;cv=9&amp;fst=1623628170910&amp;num=1&amp;value=0&amp;label=U_vXCL_-yt8BEL-I24wD&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=1&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.google.com/pagead/privacysandbox/conversion/829804951/?random=1623628170912&amp;cv=9&amp;fst=1623628170912&amp;num=1&amp;value=0&amp;label=vUo7CIq5vt8BEJej14sD&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=768&amp;u_w=1366&amp;u_ah=728&amp;u_aw=1366&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg690&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.toyota.com.co%2Fvehiculo%2Fhilux-3%2F&amp;ref=https%3A%2F%2Fwww.toyota.com.co%2F&amp;tiba=HILUX%20-%20Automotores%20Toyota%20Colombia&amp;capi=0&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script></head>
+
+<body class="vehiculo-template vehiculo-template-template-vehiculo-post vehiculo-template-template-vehiculo-post-php single single-vehiculo postid-1130 wp-custom-logo no-sidebar">
+        <!-- nav  -->
+    <div class="wsmenucontent overlapblackbg"></div>
+    <div class="wsmenuexpandermain slideRight">
+        <a id="navToggle" class="animated-arrow slideLeft"><span></span></a>
+        <a href="https://www.toyota.com.co/" class="smallogo"><img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/images/logo.png" width="180" alt="">
+        </a>
+        <a href="#buscadorMobile" class="busquedaMobileHome slideRight"><span class="glyphicon glyphicon-search"></span></a>
+    </div>
+    <section class="navigation container-fluid navbar-fixed-top">
+        <header>
+            <div class="header-content bigmegamenu clearfix">
+
+                <nav class="wsmenu slideLeft clearfix">
+
+                    <ul class="megamenu1L mobile-sub wsmenu-list container">
+                        <li><a href="https://www.toyota.com.co/"><img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/images/logo.png" alt="" height="100%"></a></li>
+                        <li><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="javascript:void(0);">Vehículos</a>
+                            <div class="megamenu container">
+                                <article class="col-md-12 center-block">
+                                    <ul class="col-md-12 segundoNivel">
+                                                                                        <li><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">Automóviles</a>
+                                                    <div class="megamenu megamenu3L container">
+                                                        <article class="row center-block">
+                                                            <ul class="col-md-12 vehiculos_lista">
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/yaris/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Yaris.png" alt="" width="100%">
+                                                                            <strong>Yaris</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/corolla-2020/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Corolla-seg.png" alt="" width="100%">
+                                                                            <strong>COROLLA</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        </article>
+                                                    </div>
+                                                </li>
+                                                                                            <li><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">Camionetas</a>
+                                                    <div class="megamenu megamenu3L container">
+                                                        <article class="row center-block">
+                                                            <ul class="col-md-12 vehiculos_lista">
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/corolla-cross/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/COROLLA-CROSS-SEG-HV.png" alt="" width="100%">
+                                                                            <strong>COROLLA CROSS</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/rav4/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/RAV4-limited-4X4.png" alt="" width="100%">
+                                                                            <strong>RAV4</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/sw4/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/SW4_2021.png" alt="" width="100%">
+                                                                            <strong>SW4</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/fj-cruiser/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/FJ-Cruiser.png" alt="" width="100%">
+                                                                            <strong>FJ CRUISER</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/4runner-3/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/4runner-sr5.png" alt="" width="100%">
+                                                                            <strong>4RUNNER</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/land-cruiser/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/land_cruiser.png" alt="" width="100%">
+                                                                            <strong>LAND CRUISER</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/prado-2/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/prado3.jpg" alt="" width="100%">
+                                                                            <strong>Prado</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/land-cruiser-200-imperial/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/LC200-imperial.png" alt="" width="100%">
+                                                                            <strong>LAND CRUISER 200</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        </article>
+                                                    </div>
+                                                </li>
+                                                                                            <li><span class="wsmenu-click"><i class="wsmenu-arrow fa fa-angle-down"></i></span><a href="#">Pick ups</a>
+                                                    <div class="megamenu megamenu3L container">
+                                                        <article class="row center-block">
+                                                            <ul class="col-md-12 vehiculos_lista">
+                                                                                                                                    <li class="col-xs-6 col-sm-4 col-md-2">
+                                                                        <a class="thumb_menu" href="https://www.toyota.com.co/vehiculo/hilux-3/">
+                                                                            <img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/HILUX_2021.png" alt="" width="100%">
+                                                                            <strong>HILUX</strong><br>
+                                                                        </a>
+                                                                    </li>
+                                                                                                                            </ul>
+                                                        </article>
+                                                    </div>
+                                                </li>
+                                                                                                                        </ul>
+                                </article>
+                            </div>
+                        </li>
+                        <li id="menu-item-2274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2274 nav-item"><a href="https://www.toyota.com.co/concesionarios/" class="nav-link">Concesionarios</a></li>
+<li id="menu-item-1267" class="menu-item menu-item-type-post_type_archive menu-item-object-usados menu-item-1267 nav-item"><a href="https://www.toyota.com.co/usados/" class="nav-link">Vehículos usados</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-10 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-10">Toyota Colombia</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-10">
+	<li id="menu-item-420" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420 nav-item"><a href="https://www.toyota.com.co/historia/" class="dropdown-item">Historia</a></li>
+	<li id="menu-item-1744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1744 nav-item"><a href="https://www.toyota.com.co/embajadores/" class="dropdown-item">Embajadores</a></li>
+	<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421 nav-item"><a href="https://www.toyota.com.co/trabaja-con-nosotros/" class="dropdown-item">Trabaja con Nosotros</a></li>
+	<li id="menu-item-423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-423 nav-item"><a href="https://periodistas.toyota.com.co/category/prensa/" class="dropdown-item">Prensa</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111 nav-item"><a href="https://www.toyota.com.co/olimpicos-y-paralimpicos/" class="dropdown-item">Olímpicos y Paralímpicos</a></li>
+</ul>
+</li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-11 nav-item"><a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-11">Mi Toyota</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-11">
+	<li id="menu-item-4380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4380 nav-item"><a href="https://www.toyota.com.co/hibridos/" class="dropdown-item">Híbridos</a></li>
+	<li id="menu-item-4143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4143 nav-item"><a href="https://www.toyota.com.co/dibujatutoyota/" class="dropdown-item">Carro de tus Sueños</a></li>
+	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424 nav-item"><a href="https://www.toyota.com.co/financiacion/" class="dropdown-item">Financiación</a></li>
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425 nav-item"><a href="https://www.toyota.com.co/seguros/" class="dropdown-item">Seguros</a></li>
+	<li id="menu-item-5699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5699 nav-item"><a href="https://www.toyota.com.co/app-seguros-toyota/" class="dropdown-item">App Seguros Toyota</a></li>
+	<li id="menu-item-5336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-5336 nav-item"><a href="#" class="dropdown-toggle nav-link subnav-link">Campañas de servicio</a>
+	<ul class="dropdown-menu submenu" aria-labelledby="menu-item-dropdown-11">
+		<li id="menu-item-3942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3942 nav-item"><a href="https://www.toyota.com.co/campana-tapetes/" class="dropdown-item">Campaña Tapetes</a></li>
+		<li id="menu-item-3951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3951 nav-item"><a href="https://www.toyota.com.co/campanas-preventivas-servicio/" class="dropdown-item">Campañas de seguridad</a></li>
+		<li id="menu-item-3944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3944 nav-item"><a href="https://www.toyota.com.co/catalogo-repuestos/" class="dropdown-item">Catálogo de Repuestos</a></li>
+		<li id="menu-item-3945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3945 nav-item"><a href="https://www.toyota.com.co/mantenimiento-express/" class="dropdown-item">Mantenimiento Express</a></li>
+		<li id="menu-item-3946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3946 nav-item"><a href="https://www.toyota.com.co/mantenimiento-prepagado-toyota/" class="dropdown-item">Mantenimiento Prepagado</a></li>
+		<li id="menu-item-3947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3947 nav-item"><a href="https://www.toyota.com.co/mantenimiento-planeado/" class="dropdown-item">Mantenimiento planeado</a></li>
+		<li id="menu-item-3948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3948 nav-item"><a href="https://www.toyota.com.co/campana-cambio-de-aceite/" class="dropdown-item">Campaña Cambio de Aceite</a></li>
+	</ul>
+</li>
+	<li id="menu-item-433" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-433 nav-item"><a href="#" class="dropdown-toggle nav-link subnav-link">Responsabilidad Social</a>
+	<ul class="dropdown-menu submenu" aria-labelledby="menu-item-dropdown-11">
+		<li id="menu-item-3840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3840 nav-item"><a href="https://www.toyota.com.co/rse-toyota/" class="dropdown-item">Responsabilidad Social</a></li>
+		<li id="menu-item-4049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4049 nav-item"><a href="https://www.toyota.com.co/web-conservaa/" class="dropdown-item">Web Conserva</a></li>
+		<li id="menu-item-434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-434 nav-item"><a href="https://www.toyota.com.co/bosque-toyota/" class="dropdown-item">Bosque Toyota</a></li>
+		<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435 nav-item"><a href="https://www.toyota.com.co/campana-seguridad-vial/" class="dropdown-item">Campaña Seguridad Vial</a></li>
+		<li id="menu-item-436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436 nav-item"><a href="https://www.toyota.com.co/manual-del-buen-conductor/" class="dropdown-item">Manual del Buen Conductor</a></li>
+		<li id="menu-item-3841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3841 nav-item"><a href="https://www.toyota.com.co/rse-fundafe/" class="dropdown-item">Fundafe</a></li>
+		<li id="menu-item-3842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3842 nav-item"><a href="https://www.toyota.com.co/rse-clean-up/" class="dropdown-item">Clean-up</a></li>
+		<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427 nav-item"><a href="https://www.toyota.com.co/toyota-safety-sense/" class="dropdown-item">Toyota Safety Sense</a></li>
+		<li id="menu-item-4498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4498 nav-item"><a href="https://www.toyota.com.co/la-tradicion-wayuu-y-la-tecnologia-toyota-convergen/" class="dropdown-item">Prado Wayúu Toyota</a></li>
+		<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426 nav-item"><a href="https://www.toyota.com.co/tips-limpieza/" class="dropdown-item">Tips Limpieza</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+    </section>
+    <div class="clearfix"></div>
+
+<section class="banner_interna">
+    <div class="info_banner">
+        <div class="content_info_banner">
+            <div class="center_banner">
+                <div class="img_in">
+                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/logo-gris_Hilux.png" alt="">
+                </div>
+                 <a href="/cotizar/" class="bt_red">Cotizar</a>
+                                    <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/FT-HILUX-DIGITAL-2021.pdf" target="_blank" class="bt_white">Ficha técnica</a>
+                               
+            </div>
+        </div>
+        <img class="img-responsive hidden-xs " src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/HILUX-27-TR.jpg" alt="">
+        <img class="img-responsive hidden-sm hidden-md hidden-lg" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/HILUX-27-TR-1.jpg" alt="">
+    </div>
+</section>
+
+<section class="name_car">
+    <h1>HILUX</h1></section>
+
+    <section class="color_car">
+        <div class="container">
+            <div class="row">
+                <div class="content_car_color">
+                    <div id="galleryColor" class="fadeOut owl-carousel owl-theme img_color owl-loaded">
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 6720px; padding-left: 30px; padding-right: 30px;"><div class="owl-item active" style="width: 1080px; margin-right: 30px;"><div class="item">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/1.-Hilux-TV-Super-Blanco.png" alt="">
+                            </div></div><div class="owl-item" style="width: 1080px; margin-right: 30px;"><div class="item">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/2.-Hilux-TV-Blanco-Perlado.png" alt="">
+                            </div></div><div class="owl-item" style="width: 1080px; margin-right: 30px;"><div class="item">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/3.-Hilux-TV-Plata-metalico.png" alt="">
+                            </div></div><div class="owl-item" style="width: 1080px; margin-right: 30px;"><div class="item">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/4.-Hilux-TV-Gris-metalico.png" alt="">
+                            </div></div><div class="owl-item" style="width: 1080px; margin-right: 30px;"><div class="item">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/5.-Hilux-TV-Negro-Mica.png" alt="">
+                            </div></div><div class="owl-item" style="width: 1080px; margin-right: 30px;"><div class="item">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/6.-Hilux-TV-Rojo-metalico.png" alt="">
+                            </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+                    <div id="galleryDots" class="content_bts_color">
+                        <div class="center_bts">
+                            <h3>Súper Blanco</h3>
+                            <ul>
+                                                                    <li class="active">
+                                        <a href="javascript:void(0);" class="btnDot" data-title="Súper Blanco" data-index="0">
+                                            <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/1.-SUPER-BLANCO.png" alt="">
+                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="javascript:void(0);" class="btnDot" data-title="Blanco Perlado" data-index="1">
+                                            <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/2.-BLANCO-PERLADO-1.png" alt="">
+                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="javascript:void(0);" class="btnDot" data-title="Plata Metálico" data-index="2">
+                                            <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/3.-PLATA-METALICO-1.png" alt="">
+                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="javascript:void(0);" class="btnDot" data-title="Gris Metálico" data-index="3">
+                                            <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/4.-GRIS.png" alt="">
+                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="javascript:void(0);" class="btnDot" data-title="Negro Mica" data-index="4">
+                                            <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/6.-NEGRO.png" alt="">
+                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="javascript:void(0);" class="btnDot" data-title="Rojo Mica" data-index="5">
+                                            <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/4.-ROJO.png" alt="">
+                                        </a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="galleryContainer" class="galeria">
+        <div class="container">
+            <div class="row">
+                <div class="title">
+                    <h1>Galería</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="portfolio-menu mt-2 mb-4">
+                    <ul>
+                        <li class="bt_gal active" data-filter="*">Todos</li>
+                                                    <li class="bt_gal" data-filter=".interior">Interior</li>
+                                                    <li class="bt_gal" data-filter=".exterior">Exterior</li>
+                                                                    </ul>
+                </div>
+                <div class="portfolio-item row br_red" style="position: relative; height: 1453px;">
+                                                                        <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 28px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_7306.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_7306.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 28px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA1601_TC_TR.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA1601_TC_TR.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 28px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA3302_TC_TR.png" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA3302_TC_TR.png" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 28px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6070.png" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6070.png" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 183px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6077_TM_TN.png" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6077_TM_TN.png" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 183px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6092_TM_TN.png" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6092_TM_TN.png" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 183px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA7012_TC_TR.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA7012_TC_TR.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 183px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6060.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6060.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 338px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6062.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6062.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 338px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6063.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6063.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 338px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6065.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6065.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 338px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6066.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6066.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 493px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6028.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6028.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 493px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6030.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6030.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 493px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6032.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6032.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 493px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6041.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6041.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 648px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6043.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6043.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 648px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6053.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6053.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item interior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 648px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_4818-out.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_4818-out.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                                                                <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 648px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_MENDOZA_13382.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_MENDOZA_13382.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 803px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/HILUX-PRIVATE-ESP_youtube-cover-png.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/HILUX-PRIVATE-ESP_youtube-cover-png.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 803px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_4725.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_4725.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 803px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_4765.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_4765.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 803px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_7329.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/IMG_7329.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 958px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/KV_MENDOZA_3_13632.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/KV_MENDOZA_3_13632.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 958px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6026.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6026.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 958px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_12824.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_12824.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 958px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_MENDOZA_13112.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_MENDOZA_13112.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 1113px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_MENDOZA_13344.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/TOYOTA_MENDOZA_13344.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 284.5px; top: 1113px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6014_TC_TR.png" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6014_TC_TR.png" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 569px; top: 1113px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA7001_TC_TM_TN_TR.png" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA7001_TC_TM_TN_TR.png" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 853.5px; top: 1113px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6079_TM_TN.png" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6079_TM_TN.png" width="100%" alt="">
+                                </a>
+                            </div>
+                                                    <div class="item exterior col-lg-3 col-md-4 col-6 col-sm" style="position: absolute; left: 0px; top: 1268px;">
+                                <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6076_TM.jpg" class="fancylight popup-btn" data-fancybox-group="light"> 
+                                    <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/NHA6076_TM.jpg" width="100%" alt="">
+                                </a>
+                            </div>
+                                                                                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="only_button">
+                        <a href="/cotizar/" class="bt_red hvr-float-shadow">Cotizar</a>
+                    </div>
+                </div>
+                                    <div class="col-md-6">
+                        <div class="only_button">
+                            <a href="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/FT-HILUX-DIGITAL-2021.pdf" target="_blank" class="bt_red hvr-float-shadow">Ficha técnica</a>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+        
+    </section>
+
+    <section class="space">
+        <div class="container">
+            <div class="row">
+                <div class="title">
+                    <h1>modelos</h1>
+                </div>
+            </div>
+            <div class="modelos_vehiculos row">
+                                                        <div class="thumb col-md-3">
+                        <a href="https://www.toyota.com.co/vehiculo/hilux-3/hilux-2-4-diesel-mecanica-tc/" class="modelos_car">
+                            <div class="img_modelos">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/hilux-destacada-tp.png" alt="">
+                            </div>
+                            <h3>HILUX 2.4L DIESEL MECÁNICA</h3>
+                        </a>
+                    </div>
+                                                        <div class="thumb col-md-3">
+                        <a href="https://www.toyota.com.co/vehiculo/hilux-3/hilux-2-4-diesel-automatica-tp/" class="modelos_car">
+                            <div class="img_modelos">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/hilux_tc_destacada.png" alt="">
+                            </div>
+                            <h3>HILUX 2.4L DIESEL AUTOMÁTICA</h3>
+                        </a>
+                    </div>
+                                                        <div class="thumb col-md-3">
+                        <a href="https://www.toyota.com.co/vehiculo/hilux-3/hilux-2-7l-gasolina-tr/" class="modelos_car">
+                            <div class="img_modelos">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Hilux_tr_destacada.png" alt="">
+                            </div>
+                            <h3>Hilux 2.7L GASOLINA</h3>
+                        </a>
+                    </div>
+                                                        <div class="thumb col-md-3">
+                        <a href="https://www.toyota.com.co/vehiculo/hilux-3/hilux-2-8l-diesel-tn/" class="modelos_car">
+                            <div class="img_modelos">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Hilux_tn_destacada.png" alt="">
+                            </div>
+                            <h3>HILUX 2.8L DIESEL</h3>
+                        </a>
+                    </div>
+                                                        <div class="thumb col-md-3">
+                        <a href="https://www.toyota.com.co/vehiculo/hilux-3/hilux-40l-gasolina-tv/" class="modelos_car">
+                            <div class="img_modelos">
+                                <img class="img-responsive" src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/hilux_tv_destacada.png" alt="">
+                            </div>
+                            <h3>Hilux 4.0L GASOLINA</h3>
+                        </a>
+                    </div>
+                            </div>
+        </div>
+    </section>
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:15%"></div>
+
+
+
+<div class="wp-block-column" style="flex-basis:70%">
+<div class="wp-block-columns">
+<div class="wp-block-column" style="flex-basis:25%"></div>
+
+
+
+<div class="wp-block-column" style="flex-basis:50%">
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h3 id="kt-adv-heading_4deda7-74" class="kt-adv-heading_4deda7-74 wp-block-kadence-advancedheading" style="text-align:center"><strong>GARANTÍA</strong></h3>
+</div>
+
+
+
+<div class="wp-block-column" style="flex-basis:25%"></div>
+</div>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column is-vertically-aligned-center">
+<figure class="wp-block-image size-full is-resized is-style-default"><img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/garantía-768x320-1.jpg" alt=""></figure>
+</div>
+
+
+
+<div class="wp-block-column">
+<p class="legalesform justificar">La garantía Toyota aplica únicamente para vehículos nuevos importados por Automotores Toyota Colombia S.A.S. (“ATC”), comercializados y facturados por los concesionarios de la red de ATC. La garantía tiene una cobertura de 5 años contados a partir de la fecha de entrega del vehículo al cliente o 120.000 Km., lo primero que ocurra. Los primeros 3 años y/o los 100.000 Km. iniciales corresponden a la garantía de fábrica, los siguientes 2 años y/o los 20.000 Km. adicionales, corresponden a la garantía suplementaria ofrecida por ATC.</p>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column" style="flex-basis:15%"></div>
+</div>
+</div></div>
+
+<div class="clearfix"></div>
+	<div id="cookieContainer" class="cookies hide">
+		<p>
+			Utilizamos "cookies" para mejorar tu experiencia en línea.
+			Esta página web utiliza "cookies" y otra tecnología propia de terceros. Si continúas navegando, aceptas el tratamiento de la información obtenida en el mismo, de acuerdo con esta política.
+		</p>
+		<button id="btnCookies" type="button">Acepto</button>
+	</div>
+
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="center_element">
+					<div class="center">
+						<div class="search-container">
+							<form id="searchform" method="get" action="https://www.toyota.com.co/">
+								<input type="text" name="s" placeholder="Buscar.." value="">
+								<button type="submit"><i class="far fa-search"></i></button>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-6 col-md-3">
+											<div class="nav_footer"><h3>VEHÍCULOS</h3><div class="menu-footer-column-1-container"><ul id="menu-footer-column-1" class="menu" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-534"><a href="https://www.toyota.com.co/vehiculo/yaris/">YARIS</a></li>
+<li id="menu-item-2406" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-2406"><a href="https://www.toyota.com.co/vehiculo/corolla-2020/">COROLLA</a></li>
+<li id="menu-item-1005" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-1005"><a href="https://www.toyota.com.co/vehiculo/rav4/">RAV4</a></li>
+<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-716"><a href="https://www.toyota.com.co/vehiculo/sw4/">SW4</a></li>
+<li id="menu-item-1006" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-1006"><a href="https://www.toyota.com.co/vehiculo/fj-cruiser/">FJ CRUISER</a></li>
+<li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-1003"><a href="https://www.toyota.com.co/vehiculo/4runner-3/">4RUNNER</a></li>
+<li id="menu-item-2405" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-2405"><a href="https://www.toyota.com.co/vehiculo/land-cruiser/">LAND CRUISER</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-533"><a href="https://www.toyota.com.co/vehiculo/prado-2/">PRADO</a></li>
+<li id="menu-item-1007" class="menu-item menu-item-type-post_type menu-item-object-vehiculo menu-item-1007"><a href="https://www.toyota.com.co/vehiculo/land-cruiser-200-imperial/">LAND CRUISER 200</a></li>
+<li id="menu-item-2407" class="menu-item menu-item-type-post_type menu-item-object-vehiculo current-menu-item menu-item-2407"><a href="https://www.toyota.com.co/vehiculo/hilux-3/" aria-current="page">HILUX</a></li>
+</ul></div></div>									</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+											<div class="nav_footer"><h3>TOYOTA COLOMBIA</h3><div class="menu-footer-column-2-container"><ul id="menu-footer-column-2" class="menu" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-1023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1023"><a href="https://www.toyota.com.co/historia/">Historia</a></li>
+<li id="menu-item-1024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a href="https://www.toyota.com.co/olimpicos-y-paralimpicos/">Olímpicos y Paralímpicos</a></li>
+<li id="menu-item-1010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1010"><a href="https://www.toyota.com.co/trabaja-con-nosotros/">Trabaja con nosotros</a></li>
+<li id="menu-item-1011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1011"><a href="https://periodistas.toyota.com.co/category/prensa/">Prensa</a></li>
+<li id="menu-item-1012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1012"><a href="https://www.toyota.com.co/concesionarios/">Red de concesionarios</a></li>
+</ul></div></div>									</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+											<div class="nav_footer"><h3>MI TOYOTA</h3><div class="menu-footer-column-3-container"><ul id="menu-footer-column-3" class="menu" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-4382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4382"><a href="https://www.toyota.com.co/hibridos/">Híbridos</a></li>
+<li id="menu-item-4142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4142"><a href="https://www.toyota.com.co/dibujatutoyota/">Carro de tus Sueños</a></li>
+<li id="menu-item-1020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1020"><a href="https://www.toyota.com.co/toyota-safety-sense/">Toyota Safety Sense</a></li>
+<li id="menu-item-1021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1021"><a href="https://www.toyota.com.co/seguros/">Seguros</a></li>
+<li id="menu-item-1022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1022"><a href="https://www.toyota.com.co/campanas-preventivas-servicio/">Campañas de Seguridad</a></li>
+<li id="menu-item-3423" class="menu-item menu-item-type-post_type_archive menu-item-object-catalogo-repuestos menu-item-3423"><a href="https://www.toyota.com.co/catalogo-repuestos/">Catálogo de Repuestos</a></li>
+<li id="menu-item-1014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1014"><a href="https://www.toyota.com.co/campana-tapetes/">Campaña Tapetes</a></li>
+<li id="menu-item-1015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1015"><a href="https://www.toyota.com.co/mantenimiento-planeado/">Mantenimiento Planeado</a></li>
+<li id="menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1016"><a href="https://www.toyota.com.co/mantenimiento-express/">Mantenimiento Express</a></li>
+<li id="menu-item-3848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3848"><a href="https://www.toyota.com.co/mantenimiento-prepagado-toyota/">Mantenimiento Prepagado</a></li>
+<li id="menu-item-4501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4501"><a href="https://www.toyota.com.co/la-tradicion-wayuu-y-la-tecnologia-toyota-convergen/">Prado Wayúu Toyota</a></li>
+</ul></div></div>									</div>
+				<div class="col-xs-12 col-sm-6 col-md-3">
+											<div class="nav_footer"><h3>AYUDA</h3><div class="menu-footer-column-4-container"><ul id="menu-footer-column-4" class="menu" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-1031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1031"><a href="https://www.toyota.com.co/pqr/">PQR</a></li>
+<li id="menu-item-1030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1030"><a href="https://www.toyota.com.co/contacto/">Contacto</a></li>
+<li id="menu-item-1032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1032"><a href="https://www.toyota.com.co/linea-de-etica/">Línea de Ética</a></li>
+</ul></div></div><div class="widget_text nav_footer"><div class="textwidget custom-html-widget"><div class="section">
+    <div class="layoutArea">
+        <div class="column">
+            <span>Línea gratuita nacional <br>
+            018000 123 691</span><br>
+            <span>Línea en Bogotá<br>
+            380 9424 </span><br>
+            <span>Dirección<br> Cra. 9 A # 99-02 oficina 602</span>
+        </div>
+    </div>
+</div>
+
+<!--<a href="https://www.toyota.com.co/concesionario-de-experiencias/" class="btn-360"></a>--></div></div><div class="widget_text nav_footer"><div class="textwidget custom-html-widget"><!-- DialApplet -->
+<script src="https://www.automotorestoyota.com.co:3000/ajax/dialappletchatjs.php?sourceid=HCLpmrk9IgfGEpeN8Ktl1Pfz"></script>
+<link rel="stylesheet" href="https://www.automotorestoyota.com.co:3000/ajax/dialappletchatcss.php?sourceid=HCLpmrk9IgfGEpeN8Ktl1Pfz">
+<!-- End DialApplet --></div></div>										<ul class="social">
+					    <li><a href="https://www.facebook.com/ToyotaColombia" target="_blank"><img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/images/facebook_icon.svg" alt=""></a></li>
+					    <li><a href="https://twitter.com/ToyotaCol" target="_blank"><img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/images/twitter_icon.svg" alt=""></a></li>
+					    <li><a href="https://www.youtube.com/user/ToyotaenColombia" target="_blank"><img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/images/youtube_icon.svg" alt=""></a></li>
+					    <li><a href="https://www.instagram.com/toyotacolombia/" target="_blank"><img src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/images/instagram_icon.svg" alt=""></a></li>
+					  
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-6">
+											<div class="nav_float"><div class="menu-footer-end-1-container"><ul id="menu-footer-end-1" class="menu" itemscope="" itemtype="http://www.schema.org/SiteNavigationElement"><li id="menu-item-2585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2585"><a href="https://www.toyota.com.co/terminos-y-condiciones-2/">Términos y Condiciones</a></li>
+<li id="menu-item-2584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2584"><a href="https://www.toyota.com.co/politicas-de-privacidad/">Políticas de Privacidad</a></li>
+<li id="menu-item-2583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2583"><a href="https://www.toyota.com.co/politica-de-gestion-en-control-y-seguridad/">Política de seguridad SGCS</a></li>
+</ul></div></div>									</div>
+				<div class="col-xs-12 col-sm-12 col-md-6">
+											<div class="widget_text nav_float"><div class="textwidget custom-html-widget"><p>
+	© 2018 Automotores Toyota Colombia S.A.S. – Todos los 
+derechos reservados
+</p></div></div>									</div>
+			</div>
+		</div>
+	</footer>
+
+	                <div id="ssb-container" class="ssb-btns-right ssb-disable-on-mobile ssb-anim-slide" style="z-index: 999; right: -223.172px;">
+                    <ul class="ssb-dark-hover">
+						                            <li id="ssb-btn-0">
+                                <p>
+                                    <a href="https://www.toyota.com.co/concesionarios/"><span class="fas fa-car"></span> RED DE CONCESIONARIOS</a>
+                                </p>
+                            </li>
+							                            <li id="ssb-btn-1">
+                                <p>
+                                    <a href="https://www.toyota.com.co/campanas-preventivas-servicio/"><span class="fas fa-bookmark"></span> CAMPAÑAS DE SEGURIDAD</a>
+                                </p>
+                            </li>
+							                            <li id="ssb-btn-2">
+                                <p>
+                                    <a href="https://www.toyota.com.co/cotizar/"><span class="fas fa-angle-double-left"></span> COTIZACIÓN</a>
+                                </p>
+                            </li>
+							                    </ul>
+                </div>
+				<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/gutenslider/src/vendor/slick/slick.min.js?ver=1623135655" id="eedee-gutenslider-slick-js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/plugins/gutenslider/dist/gutenslider.js?ver=1623135655" id="eedee-gutenslider-js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.12.1" id="jquery-effects-core-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.12.1" id="jquery-effects-shake-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/bootstrap.js?ver=20151215" id="bootstrap.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/megamenu.js?ver=20151215" id="megamenu.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/js.cookie.min.js?ver=20151215" id="js.cookie.min.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/cookie-advice.js?ver=20151215" id="cookie-advice.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/js/navigation.js?ver=1.0.0" id="toyotasite-navigation-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/owl.carousel.js?ver=1.0.0" id="owl.carousel.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/imagesloaded.pkgd.min.js?ver=1.0.0" id="imagesloaded.pkgd.min.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/isotope.pkgd.min.js?ver=1.0.0" id="isotope.pkgd.min.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/jquery.magnific-popup.min.js?ver=1.0.0" id="jquery.magnific-popup.min.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-content/themes/toyotasite/assets/js/vehicle.js?ver=1.0.0" id="vehicle.js-js"></script>
+<script src="https://11uk91uj5h62os2u61c0s6o1-wpengine.netdna-ssl.com/wp-includes/js/wp-embed.min.js?ver=5.6.4" id="wp-embed-js"></script>
+
+
+
+<div id="bubble-tecsible"><svg xmlns="http://www.w3.org/2000/svg" class="tecsible-svg-icon ts-size-16" aria-hidden="true" focusable="false" role="img" viewBox="0 0 512 512" id="bubbleMessage-tecsible" title="Abrir chat"><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 47.6 19.9 91.2 52.9 126.3C38 405.7 7 439.1 6.5 439.5c-6.6 7-8.4 17.2-4.6 26S14.4 480 24 480c61.5 0 110-25.7 139.1-46.3C192 442.8 223.2 448 256 448c141.4 0 256-93.1 256-208S397.4 32 256 32zm0 368c-26.7 0-53.1-4.1-78.4-12.1l-22.7-7.2-19.5 13.8c-14.3 10.1-33.9 21.4-57.5 29 7.3-12.1 14.4-25.7 19.9-40.2l10.6-28.1-20.6-21.8C69.7 314.1 48 282.2 48 240c0-88.2 93.3-160 208-160s208 71.8 208 160-93.3 160-208 160z"></path></svg></div></body></html>

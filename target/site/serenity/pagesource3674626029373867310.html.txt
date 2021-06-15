@@ -1,0 +1,472 @@
+<html lang="en"><head>
+      <meta charset="UTF-8">
+      <title>Dibuja tu TOYOTA</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+      <link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css">
+      <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css">
+      <link rel="stylesheet" href="css/style.css">
+      <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+      <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+      <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+      <link rel="manifest" href="/manifest.json">
+      <meta name="msapplication-TileColor" content="#ffffff">
+      <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+      <meta name="theme-color" content="#ffffff">
+      <meta name="robots" content="noindex, nofollow">
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-LFNS399NLT&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-110030901-1"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         function gtag(){dataLayer.push(arguments);}
+         gtag('js', new Date());
+         
+         gtag('config', 'UA-110030901-1');
+      </script>
+   </head>
+   <body data-spy="scroll" data-target="#nav">
+      
+         <header id="home" class="clearfix">
+            <nav role="navigation" id="nav" class="navbar navbar-default navbar-fixed-top">
+               <div class="container">
+                  <div class="navbar-header">
+                     <button aria-controls="navbar" aria-expanded="false" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                     <span class="sr-only">Toggle navigation</span>
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                     <span class="icon-bar"></span>
+                     </button>
+                     <ul class="nav navbar-nav social-list">
+                        <li>
+                           <a href="http://www.toyota.com.co/" target="_blank">
+                           <img src="img/toyota.jpg">
+                           </a>
+                        </li>
+                        <li>
+                           <a href="index.html" target="_self">
+                           <img src="img/dibuja.jpg">
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div id="navMenu" class="collapse navbar-collapse navbar-right">
+                     <ul class="nav navbar-nav">
+                        <li data-elem="parallax"><a href="#home">INICIO</a></li>
+                        <li data-elem="about"><a href="#portfolio">CONCURSO</a></li>
+                        <li data-elem="portfolio"><a href="#portfolio2">CATEGORÍAS</a></li>
+                        <li data-elem="contact"><a href="#contact">PREMIOS</a></li>
+                        <li data-elem="ganadores"><a href="#ganadores">GANADORES</a></li>
+                        <li><a target="_blank" href="pdf/Formulario-CTS_2021.pdf">FORMULARIO</a></li>
+                        <li><a href="terminos.html">TÉRMINOS</a></li>
+                     </ul>
+                  </div>
+               </div>
+               
+            </nav>
+            <div id="background">
+            </div>
+            <div id="parallax" class="banner parallax scroll">
+            </div>
+         </header>
+         <section id="about" class="about">
+            <div class="container">
+               <!--<video width="100%" autoplay>
+                  <source src="video/carro.mp4" type="video/mp4">
+                  <source src="video.webm" type="video/webm">
+                  <source src="video.ogv" type="video/ogg">
+                  <img src="img/slide.png" alt="Video no soportado">
+                  </video>-->
+               <div class="row">
+                  <div class="text-center about-content">
+                     <img src="img/CARRO-DE-TUS-SUENOS2021.jpg" width="100%">
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section id="portfolio" class="portfolio scroll">
+            <div class="container back1">
+               <h2 class="text-center">¿QUIÉNES PUEDEN PARTICIPAR?</h2>
+               <p class="centrar">En nuestra undécima edición, queremos que participes dibujando el Carro de Tus Sueños, por eso
+                  si tienes entre 4 y 15 años esta invitación es para ti. Tenemos tres categorías para participar
+               </p>
+               <div class="row">
+                  <div class="col-md-4 col-sm-6 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block">
+                           <div class="project-thumb project-1" id="project-1"></div>
+                        </div>
+                     </a>
+                     <h4>CATEGORÍA 1</h4>
+                     <h5>4 - 7 AÑOS</h5>
+                  </div>
+                  <div class="col-md-4 col-sm-6 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block">
+                           <div class="project-thumb project-2" id="project-2"></div>
+                        </div>
+                     </a>
+                     <h4>CATEGORÍA 2</h4>
+                     <h5>8 - 11 AÑOS</h5>
+                  </div>
+                  <div class="col-md-4 col-sm-6 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block">
+                           <div class="project-thumb project-3" id="project-3"></div>
+                        </div>
+                     </a>
+                     <h4>CATEGORÍA 3</h4>
+                     <h5>12 - 15 AÑOS</h5>
+                  </div>
+                  <h3>Recuerda que tu imaginación puede llevarte a donde
+                     quieras. El concurso finaliza el <strong>01 de febrero de 2021</strong>.
+                  </h3>
+               </div>
+            </div>
+         </section>
+         <section id="portfolio2" class="portfolio scroll">
+            <div class="container trans">
+               <h2 class="text-center">¿CÓMO PUEDES PARTICIPAR?</h2>
+               <div class="row">
+                  <div class="col-md-6 col-sm-6 col-xs-12">
+                     <ul class="Lista">
+                        <li>
+                           <h4><span>1</span>Descarga el formulario</h4>
+                        </li>
+                        <li>
+                           <h4><span>2</span>Diligéncialo con tus padres</h4>
+                        </li>
+                        <li>
+                           <h4><span>3</span>Dibuja el carro de tus sueños</h4>
+                        </li>
+                        <li>
+                           <h4><span>4</span>Lleva tu dibujo con el formulario al concesionario TOYOTA más cercano de tu ciudad.</h4>
+                        </li>
+                     </ul>
+                     <div class="form"><a class="formulario" target="_blank" href="pdf/Formulario-CTS_2021.pdf">DESCARGAR FORMULARIO</a></div>
+                  </div>
+                  <div class="col-md-6 col-sm-6 col-xs-12">
+                     <img src="img/reglas.png" width="80%" style="margin-left: 10%;">
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section id="contact" class="contact">
+            <div class="container">
+               <h2 class="text-center">¿QUÉ PUEDES GANAR?</h2>
+               <!--<h3 class="japon">TENDRÁS LA POSIBILIDAD DE VIAJAR A JAPÓN</h3>-->
+               <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                     <h4>CATEGORÍA 1</h4>
+                     <h5>4 - 7 AÑOS</h5>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block1">
+                           <div class="project-thumb project-4" id="project-4"></div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>1ER PUESTO:</span> Bicicleta</li>
+                        <li><span>2DO PUESTO:</span> Set de piezas para Armar</li>
+                        <li><span>3ER PUESTO:</span> Set de piezas para Armar</li>
+                     </ul>
+                     <ul class="premios">
+                        <li><img src="img/p1.png"></li>
+                        <li><img src="img/p3.png"></li>
+                        <li><img src="img/p3.png"></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                     <h4>CATEGORÍA 2</h4>
+                     <h5>8 - 11 AÑOS</h5>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block1">
+                           <div class="project-thumb project-5" id="project-5"></div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>1ER PUESTO:</span> Bicicleta</li>
+                        <li><span>2DO PUESTO:</span> Set de piezas para Armar</li>
+                        <li><span>3ER PUESTO:</span> Pista</li>
+                     </ul>
+                     <ul class="premios">
+                        <li><img src="img/p1.png"></li>
+                        <li><img src="img/p3.png"></li>
+                        <li><img src="img/p4.png"></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                     <h4>CATEGORÍA 3</h4>
+                     <h5>12 - 15 AÑOS</h5>
+                  </div>
+               </div>
+               <div class="row">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block1">
+                           <div class="project-thumb project-6" id="project-6"></div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>1ER PUESTO:</span> Bicicleta</li>
+                        <li><span>2DO PUESTO:</span> Tablet</li>
+                        <li><span>3ER PUESTO:</span> Kit de Dibujo</li>
+                     </ul>
+                     <ul class="premios">
+                        <li><img src="img/p1.png"></li>
+                        <li><img src="img/p5.png"></li>
+                        <li><img src="img/p2.png"></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <section id="ganadores" class="ganadores">
+            <div class="container">
+               <div class="row">
+                  <h2 class="text-center">GANADORES 2019</h2>
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                     <h4>CATEGORÍA 1</h4>
+                     <h5>4 - 7 AÑOS</h5>
+                  </div>
+               </div>
+               
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/Bio-eco-toyota_01.png" alt="Bio-eco-toyota_01">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Valery Johanna Pinzon Latorre</li>
+                        <li><span>Nombre del dibujo:</span> Bio Eco Toyota</li>
+                        <li><span>Descripción del dibujo:</span> Este carro de mis sueños es semiacuático, mientras brinda un paseo por el agua va recogiendo la basura que vaya encontrando y las basura es procesada para luego transformarse en libros, en la parte delantera tiene un sensor para detectar animales y así evitar atropellarlos, funciona con energía solar con paneles solares.</li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/sweet-festival01.png" alt="sweet-festival01">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> María José Barrera Díaz</li>
+                        <li><span>Nombre del dibujo:</span> Dulce Festival</li>
+                        <li><span>Descripción del dibujo:</span> Mi sueño es viajar con mi auto Toyota por todo el mundo , llevando regalos y pastel de cumpleaños a todos los que se sientan tristes y en especial a mi tía Maria Isabel que vive en Canadá y estoy segura que al verme llegar lloraría pero de alegría.</li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/Toyota-purpose01.png" alt="Toyota-purpose01">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Daniel Jaramillo Murillo</li>
+                        <li><span>Nombre del dibujo:</span> Toyota Purpose</li>
+                        <li><span>Descripción del dibujo:</span> Toyota Multipurpose es un multiuso que sirve para transportar muchos pasajeros y para limpiar el planeta con su nueva tecnología , es automático , es aéreo y terrestre  y acuático. Funciona con agua y se magnetiza para quedar limpia y ser consumida y funciona con calor humano sin deteriorar  el planeta.</li>
+                     </ul>
+                  </div>
+               </div> 
+
+               <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                      <h4>CATEGORÍA 2</h4>
+                      <h5>8 - 11 AÑOS</h5>
+                   </div>
+               </div>
+              
+                <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/Tank-of-peace-Toyota-magic01.png" alt="Tank-of-peace-Toyota-magic01">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Angel Mariette Peña Morales</li>
+                        <li><span>Nombre del dibujo:</span> Tanque de paz "Toyota Magic"</li>
+                        <li><span>Descripción del dibujo:</span> Mi tanque de paz será un carro mágico que permitirá ayudar a todo el planeta. Tiene una nube que fabrica agua para apagar incendios en los bosques. Tiene brazos que ayudan a recolectar basuras, plantar arbolitos y dar alimento a los animales de la calle. Con este sueño me gustaría que los niños tengamos un futuro hermoso lleno de paz y amo</li>
+                     </ul>
+                  </div>
+               </div> 
+
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/Toyota-eco-caribe01.png" alt="Toyota-eco-caribe01">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Mailin Michel Arroyo Buelvas</li>
+                        <li><span>Nombre del dibujo:</span> Toyota Eco Caribe</li>
+                        <li><span>Descripción del dibujo:</span> Llevar mi cultura caribe colombiana por todo el mundo para que niños y adultos aprendan y reconozcan el valor humano y cultural de mi región.</li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/luthier-auto-manufacturers.png" alt="luthier-auto-manufacturers">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Camila Giraldo</li>
+                        <li><span>Nombre del dibujo:</span> Luthier-auto: fábrica de instrumentos</li>
+                        <li><span>Descripción del dibujo:</span> Un carro que apoye la música, construyendo instrumentos para todo el mundo.</li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                      <h4>CATEGORÍA 3</h4>
+                      <h5>12 - 15 AÑOS</h5>
+                   </div>
+               </div>
+
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/abeja-bus_01.png" alt="abeja-bus_01">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Laura Estefania Chivinos Pineda</li>
+                        <li><span>Nombre del dibujo:</span> Abeja Bus</li>
+                        <li><span>Descripción del dibujo:</span> De camino al colegio, siempre veo un paisaje gris y triste, por eso el auto de mis sueños, en un bus que en su recorrido de vida otra vez a la naturaleza muestra árboles talados, ríos secos, etc, la idea nace de las abejas; que polinizan las flores, en este caso ABEJA - BUS poliniza los árboles, que tiñen de color un paraíso gris.</li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/amphibian-firts-generation_01.png" alt="amphibian-firts-generation_01">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Guillermo Enrique Abello Hurtado</li>
+                        <li><span>Nombre del dibujo:</span> Anfibio primera generación</li>
+                        <li><span>Descripción del dibujo:</span> El sueño con este auto es ayudar en la lucha contra el deterioro ambiental, en especial, salvar ecosistemas acuáticos y llegar a rincones donde la ciencia no ha llegado para descubrir nuevas especies y estudiarlas.</li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="row mb-g">
+                  <div class="col-md-4 col-sm-4 col-xs-12">
+                     <a href="#" target="_blank">
+                        <div class="block2">
+                           <div class="winner-thumb">
+                              <img src="img/ganadores/the-smart-S10-of-toyota01.png" alt="Ganador 1">
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="col-md-8 col-sm-8 col-xs-12">
+                     <ul class="premiostxt">
+                        <li><span>Nombre del ganador:</span> Sebastián Jurado Maya</li>
+                        <li><span>Nombre del dibujo:</span> El S.10 inteligente de Toyota</li>
+                        <li><span>Descripción del dibujo:</span> Despega y aterriza de manera vertical, funciona con energía solar, capta las fragancias del campo y la esparce sobre la ciudad, toma el agua de las fuentes o ríos y la esparce sobre los árboles o parques.
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+
+            </div>
+            
+         </section>
+         <section id="portfolio4" class="portfolio scroll">
+            <div class="container verde">
+               <h2 class="text-center blanco">TÉRMINOS Y CONDICIONES</h2>
+               <div class="row">
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+                     <div class="leer1"><a href="terminos.html" class="leer">LEER</a></div>
+                  </div>
+               </div>
+            </div>
+         </section>
+         <footer>
+            <ul class="redes">
+               <li style="color: #7a7a7a">Síguenos en :</li>
+               <li><a target="_blank" href="https://twitter.com/dibujatutoyota"><img src="img/twitter.jpg"></a></li>
+               <li><a target="_blank" href="https://www.facebook.com/dibujatutoyota/?fref=ts"><img src="img/facebook.jpg"></a></li>
+            </ul>
+         </footer>
+   
+   <script src="https://web.archive.org/web/20180115150346js_/https://code.jquery.com/jquery-2.2.4.min.js"></script>
+   <script src="https://web.archive.org/web/20180115150346js_/https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+   <script src="https://web.archive.org/web/20180115150346js_/https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+   <script src="/web/20180115150346js_/http://dibujatutoyota.com/js/index.js"></script>
+   
+</body></html>
