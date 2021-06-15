@@ -31,9 +31,7 @@ public class ToyotaDefinitions {
     }
 
     @Then("^check engine information$")
-        public void checkEngineInformation()  {
+            public void checkEngineInformation()  {
         toyota.printInfoMotor();
     }
-
-
 }

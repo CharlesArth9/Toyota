@@ -33,6 +33,7 @@ public class ToyotaSteps extends PageObject {
     }
 
     public void printInfoMotor() {
+        carSpecificationsPage.validateMotor();
         carSpecificationsPage.getMotorInfo();
     }
 

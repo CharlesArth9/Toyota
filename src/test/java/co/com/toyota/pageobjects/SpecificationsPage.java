@@ -23,9 +23,8 @@ public class SpecificationsPage extends PageObject {
     public void clickMotor() {
         function.mouseClick(btnMotor);
     }
-
+    public void validateMotor() {function.validateElement(btnMotor);}
     public void getMotorInfo() {
         function.printText(btnMotor);
     }
-
 }
